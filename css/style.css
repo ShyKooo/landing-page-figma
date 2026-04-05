@@ -534,7 +534,7 @@ body {
 .top-visit__comment::after {
     content: url(../img/svg/comment.svg);
     margin-left: 9px;
-    height: 14px;
+    height: 24px;
     align-self: flex-end;
 }
 .top-visit__footer {
